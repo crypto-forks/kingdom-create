@@ -1,9 +1,9 @@
 {
-  "name": "dao-create",
-  "version": "1.0.2",
+  "name": "kingdom-create",
+  "version": "1.0.0",
   "description": "Generate DAO boilerplate made by the Buildspace community. Powered by buildspace x thirdweb.",
   "bin": {
-    "create-buildspace-dao": "bin/clone.js"
+    "kingdom-create": "bin/clone.js"
   },
   "authors": [
     "buildspace",
@@ -15,7 +15,8 @@
     "dao",
     "thirdweb",
     "decentralized autonomous organization",
-    "NFT"
+    "NFT",
+    "kingdom-create"
   ],
   "license": "MIT",
   "dependencies": {

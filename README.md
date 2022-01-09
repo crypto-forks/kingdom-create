@@ -1,13 +1,13 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/pijus-r/dao-create/main/assets/logo.png"/>
 </p>
-<h3 align="center">DAO Create</h3>
+<h3 align="center">Kingdom Create</h3>
 <p align="center">DAO boilerplate made by the 
 Buildspace community.</p>
 <br>
 
 ```
-➜ npx dao-create my-dao
+➜ npx kingdom-create my-dao
 
 ⌛ Downloading files ...
 ⌛ Installing dependencies ...
@@ -24,7 +24,7 @@ Buildspace community.</p>
 To create a project, run:
 
 ```
-npx dao-create my-dao
+npx kingdom-create my-dao
 ```
 
 Copy the `.env.example` file as `.env` and provide values for all required fields.
@@ -56,6 +56,6 @@ Follow [Buildspace: Build your own DAO with just Javascript in a weekend](https:
 
 ## Contributions
 
-****dao-create**** is an open-sourced package. Contributions of any shape
+****kingdom-create**** is an open-sourced package. Contributions of any shape
 are welcome and appreciated.
 
