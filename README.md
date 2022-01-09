@@ -32,6 +32,6 @@ npm run build
 Using the web server of your preference, publish the contents of the generated `build` directory.
 
 ## Resources
-- [Buildspace: Build your own DAO with just Javascript in a weekend](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766)
+- [Buildspace](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766)
 - [Thirdweb](https://thirdweb.com/)
 - [Alchemy](https://www.alchemy.com/)
