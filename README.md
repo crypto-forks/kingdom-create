@@ -1,7 +1,8 @@
 # 🦄 create-buildspace-dao
 
-`create-buildspace-dao` generates DAO starter boilerplate made by [buildspace](https://github.com/buildspace) community. 
-
+### Generates DAO boilerplate in a breeze. 
+##### Powered by buildspace x thirdweb.
+<br>
 
 ## Getting started
 
