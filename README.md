@@ -1,13 +1,24 @@
-# 🦄 create-buildspace-dao 
+<div style="text-align: center; font-size:30px">
+<h2>🦄 </h2>
+<h3>create-buildspace-dao</h3>
+<p style="font-size:15px; text-align: left; padding: 0 3.7em 2em 3.7em">Generates DAO starter boilerplate made by the Buildspace community.</p>
+</div>
 
-Generates DAO starter boilerplate made by the [buildspace](https://github.com/buildspace) community. 
+<!-- <img src="assets/showcase.png" style="margin: 0 auto; display: block"/> -->
+```
+➜ npx create-buildspace-dao my-dao
 
-<br></br>
-<img src="assets/showcase.png"/>
-<br></br>
+⌛ Downloading files ...
+⌛ Installing dependencies ...
+🌈 Ready to use!
 
-## Setup
-### Getting Started
+➜ |
+```
+<br>
+
+
+
+## Getting Started
 
 To create a project, run:
 
@@ -42,3 +53,4 @@ Fallow [Buildspace: Build your own DAO with just Javascript in a weekend](https:
 
 ****create-buildspace-dao**** is an open-sourced package. Contributions of any shape
 are welcome and appreciated.
+
