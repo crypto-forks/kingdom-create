@@ -4,11 +4,11 @@ const { execSync } = require('child_process');
 const path = require('path');
 const fs = require('fs');
 
-const GIT_REPO = 'https://github.com/buildspace/buildspace-dao-final.git';
+const GIT_REPO = 'https://github.com/Kingdom-Create-Foundation/buildspace-dao-final.git';
 
 if (process.argv.length < 3) {
     console.log('ℹ️  You have to provide a name to your dao.');
-    console.log('e.g.: npx dao-create my-dao');
+    console.log('e.g.: npx kingdom-create my-dao');
 
     process.exit(1);
 }
