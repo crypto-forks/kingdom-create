@@ -1,6 +1,6 @@
 # 🦄 create-buildspace-dao 
 
-`create-buildspace-dao` generates DAO starter boilerplate made by the [buildspace](https://github.com/buildspace) community. 
+Generates DAO starter boilerplate made by the [buildspace](https://github.com/buildspace) community. 
 
 
 ## Getting Started
@@ -34,3 +34,8 @@ Fallow [Buildspace: Build your own DAO with just Javascript in a weekend](https:
 - [Thirdweb](https://thirdweb.com/)
 - [Alchemy](https://www.alchemy.com/)
 
+
+## Contributions
+
+****create-buildspace-dao**** is an open-sourced package. Contributions of any shape
+are welcome and appreciated.
