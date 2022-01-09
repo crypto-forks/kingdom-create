@@ -1,8 +1,6 @@
-<div style="text-align: center; font-size:30px">
-<h2>🦄 </h2>
-<h3>create-buildspace-dao</h3>
+<h2 style="text-align: center; font-size:60px">🦄 </h2>
+<h3 style="text-align: center; font-size:30px">create-buildspace-dao</h3>
 <p style="font-size:15px; text-align: center; padding: 0 3.7em 2em 3.7em">Generates DAO starter boilerplate made by the Buildspace community.</p>
-</div>
 
 <!-- <img src="assets/showcase.png" style="margin: 0 auto; display: block"/> -->
 ```
