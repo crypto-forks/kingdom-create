@@ -40,7 +40,7 @@ async function clone() {
         execSync('npm install --loglevel=error');
         execSync('npx rimraf ./.git');
 
-        console.log('✅ Ready to use!');
+        console.log('🌈 Ready to use!');
 
     } catch (error) {
         console.error(`🔴 ${error}`);

@@ -2,6 +2,10 @@
 
 Generates DAO starter boilerplate made by the [buildspace](https://github.com/buildspace) community. 
 
+<br></br>
+<img src="assets/showcase.png"/>
+<br></br>
+
 ## Setup
 ### Getting Started
 
@@ -23,7 +27,9 @@ Fallow [Buildspace: Build your own DAO with just Javascript in a weekend](https:
 ## Roadmap
 
 - Open-sourced documentation to be available to everyone without the need to be enrolled in the project
-- Boilerplate code refactoring
+
+- Refactored boilerplate code
+
 - UI/ UX improvements
 
 ## Resources
