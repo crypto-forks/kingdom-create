@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/logo.png"/>
+    <img src="https://github.com/pijus-r/create-buildspace-dao/blob/main/assets/logo.png"/>
 </p>
 <h3 align="center">DAO Create</h3>
 <p align="center">DAO boilerplate made by the 
