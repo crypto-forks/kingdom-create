@@ -1,0 +1,24 @@
+{
+  "name": "create-buildspace-dao",
+  "version": "1.0.0",
+  "description": "Generates DAO boilerplate in a breeze. Powered by buildspace x thirdweb",
+  "bin": {
+    "create-buildspace-dao": "bin/clone.js"
+  },
+  "authors": [
+    "buildspace",
+    "pijus-r",
+    "farzaa"
+  ],
+  "keywords": [
+    "buildspace",
+    "dao",
+    "thirdweb",
+    "decentralized autonomous organization",
+    "NFT"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "rimraf": "^3.0.2"
+  }
+}
