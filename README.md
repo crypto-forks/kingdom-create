@@ -2,8 +2,7 @@
     <img src="https://raw.githubusercontent.com/Kingdom-Create/kingdom-create/main/assets/logo.png"/>
 </p>
 <h3 align="center">Kingdom Create</h3>
-<p align="center">Generate DAO boilerplate made by the 
-Buildspace community.</p>
+<p align="center">DAO boilerplate generator made by the Buildspace community.</p>
 <br>
 
 ```
