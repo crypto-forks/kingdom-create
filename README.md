@@ -1,7 +1,7 @@
 <p align="center">
     <img src="assets/logo.png"/>
 </p>
-<p align="center">Generates DAO starter boilerplate made by the 
+<p align="center">Generate DAO starter boilerplate made by the 
 Buildspace community.</p>
 <br>
 
