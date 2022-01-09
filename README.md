@@ -39,12 +39,13 @@ Follow [Buildspace: Build your own DAO with just Javascript in a weekend](https:
 ## Roadmap
 
 - [ ] Open-sourced documentation to be available to everyone without the need to be enrolled in the project
-- [ ] Allow multiple frameworks:
+- [ ] Allow to choose between multiple frameworks:
    - [ ] Vue.js
    - [ ] Angular
    - [ ] Next.js
    - [ ] Svelte
    - [x] React.js
+- [ ] TypeScript support
 - [ ] Refactored boilerplate code
 - [ ] UI/ UX improvements
 
