@@ -4,7 +4,7 @@ const { execSync } = require('child_process');
 const path = require('path');
 const fs = require('fs');
 
-const GIT_REPO = 'https://github.com/Kingdom-Create/buildspace-dao-final.git';
+const GIT_REPO = 'https://github.com/Kingdom-Create/kingdom-boilerplate.git';
 
 if (process.argv.length < 3) {
     console.log('ℹ️  You have to provide a name to your dao.');
