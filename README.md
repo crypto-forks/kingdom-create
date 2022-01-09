@@ -1,4 +1,11 @@
-<!-- <img src="assets/header.png" style="margin: 0 auto; display: block"/> -->
+<img src="assets/logo.png" style="margin: 0 auto; display: block"/>
+<br>
+<h2 align="center">
+    <font size="6">create-buildspace-dao</font>
+</h2>
+<p align="center">Generates DAO starter boilerplate made by the 
+Buildspace community.</p>
+<br>
 
 ```
 ➜ npx create-buildspace-dao my-dao
