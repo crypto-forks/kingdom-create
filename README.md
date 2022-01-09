@@ -1,4 +1,6 @@
-<img src="assets/logo.png" style="margin: 0 auto; display: block"/>
+<p align="center">
+    <img src="assets/logo.png"/>
+</p>
 <br>
 <h2 align="center">
     <font size="6">create-buildspace-dao</font>
