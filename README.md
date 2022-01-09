@@ -1,10 +1,6 @@
 <p align="center">
     <img src="assets/logo.png"/>
 </p>
-<br>
-<p align="center">
-    <font size="10">create-buildspace-dao</font>
-</p>
 <p align="center">Generates DAO starter boilerplate made by the 
 Buildspace community.</p>
 <br>
